@@ -1,16 +1,14 @@
-## Hi there 👋
+﻿# Hi, I'm Sara
 
-<!--
-**SaraCaslo/SaraCaslo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student (ASIR, Spain) with a blue team / detection focus. Ten years in digital communications before moving into security, so I care as much about explaining a finding as about finding it.
 
-Here are some ideas to get you started:
+**What I'm building**
+- [detection-lab](https://github.com/SaraCaslo/detection-lab) - Windows AD + Sysmon + Elastic on Docker home lab
+- [threat-hunting-notebook](https://github.com/SaraCaslo/threat-hunting-notebook) - hypothesis-driven hunts mapped to MITRE ATT&CK
+- [dfir-toolbox](https://github.com/SaraCaslo/dfir-toolbox) - containerised forensic and detection tooling
+- [blue-team-scripts](https://github.com/SaraCaslo/blue-team-scripts) - small Python utilities for SOC work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:** building the lab - Atomic Red Team emulations - TryHackMe SOC L1 path
+
+Languages: Spanish (native) - English (C1 certified, C2 working level) - French (learning)
+
